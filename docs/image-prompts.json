@@ -1,0 +1,56 @@
+[
+  {
+    "name": "hero",
+    "prompt": "Ultrarealistic architectural editorial photograph, wide horizontal 16:9, premium contemporary Brazilian living room, linen sofa, travertine coffee table, warm oak panels, floor-to-ceiling window on right, verdant garden, soft daylight, white modern unbranded wall mounted split air conditioner installed high on right wall. Left half darker understated empty wall and furnishings suitable for text overlay. Correct architecture, real photographic textures, no people, no text, no logos, no watermark, not 3d render.",
+    "tool": "Built-in Imagegen",
+    "file": "public/images/hero.webp"
+  },
+  {
+    "name": "about",
+    "prompt": "Ultrarealistic professional architectural photograph, premium double-height contemporary living room with warm oak slatted wall, ivory linen furniture, tasteful green plant, daylight, white unbranded split AC installed neatly above wood panels, visible plausible equipment, refined Brazilian interior design, editorial magazine quality, landscape 4:3, no people text logos watermark, not render.",
+    "tool": "Built-in Imagegen",
+    "file": "public/images/about.webp"
+  },
+  {
+    "name": "residence",
+    "prompt": "Photorealistic architectural photography of sophisticated modern penthouse living room, beige sofa, sculptural chair, warm evening daylight, city vista, subtle white unbranded split AC installed above doorway, natural materials, realistic proportions, landscape 4:3, no text watermark or people.",
+    "tool": "Built-in Imagegen",
+    "file": "public/images/residence.webp"
+  },
+  {
+    "name": "office",
+    "prompt": "Photorealistic architecture magazine photograph of bright premium corporate office meeting room, long walnut conference table, chairs, glass partitions, recessed four-way white cassette air conditioner properly installed in ceiling, daylight, believable building engineering, landscape 4:3, no people logos text or watermark.",
+    "tool": "Built-in Imagegen",
+    "file": "public/images/office.webp"
+  },
+  {
+    "name": "restaurant",
+    "prompt": "Ultrarealistic architectural photo of sophisticated restaurant interior, terracotta banquette, dark wood tables, warm pendants, discreet linear ducted air conditioning grilles in ceiling, soft afternoon daylight, elegant lush indoor plant, professional architectural photography, landscape 4:3, no people no text no logos no watermark.",
+    "tool": "Built-in Imagegen",
+    "file": "public/images/restaurant.webp"
+  },
+  {
+    "name": "clinic",
+    "prompt": "Ultrarealistic architectural photograph of upscale clinic reception, curved ivory desk, sage green upholstered chairs, light stone wall, professionally installed ceiling cassette AC, clean daylight, calming premium interior, landscape 4:3, no people text logos watermark.",
+    "tool": "Built-in Imagegen",
+    "file": "public/images/clinic.webp"
+  },
+  {
+    "name": "split",
+    "prompt": "Photorealistic studio product photograph of one premium white wall-mounted split air conditioning indoor unit, front view with slight view of right side and lower open vent, realistic fine louvers and elegant softly curved casing, unbranded, no letters logos watermark, isolated on genuinely transparent background. Wide horizontal composition, entire unit visible with padding, realistic product photography.",
+    "tool": "Built-in Imagegen",
+    "file": "public/images/split.webp"
+  },
+  {
+    "name": "villa",
+    "prompt": "Photorealistic architectural editorial photograph of luxury Brazilian modern residence with open-plan living room, large white sectional sofa, stone finishes, indoor garden, black slim window frames, recessed linear HVAC vents and unbranded split installed flush high on wall, beautiful daylight, landscape 4:3, no people logos watermark text.",
+    "tool": "Built-in Imagegen",
+    "file": "public/images/villa.webp"
+  },
+  {
+    "name": "commercial",
+    "prompt": "Photorealistic professional architectural photograph of commercial HVAC VRF installation in a pristine rooftop mechanical area, three modern unbranded outdoor condensers with fan grilles, carefully installed neatly aligned insulated piping and mounting bases, contemporary building facade, daylight, landscape 4:3, plausible engineering and proportions, no people logos text watermark.",
+    "tool": "Built-in Imagegen",
+    "file": "public/images/commercial.webp"
+  }
+]
